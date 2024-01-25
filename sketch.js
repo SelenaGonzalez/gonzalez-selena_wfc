@@ -1,5 +1,5 @@
 const celdas = [];
-const RETICULA = 7; //número de filas y columnas de la reeticula
+const RETICULA = 6; //número de filas y columnas de la reeticula
 let ancho; //anchura de cada celda
 let alto; //altura de cada celda
 
